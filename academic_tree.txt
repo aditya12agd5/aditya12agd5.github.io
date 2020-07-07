@@ -1,0 +1,23 @@
+Nicolo Fontana Tartaglia
+'--Ostilio Ricci
+    '-- Galileo Galilei
+        '-- Vincenzo Viviani
+            '-- Isaac Barrow
+                '-- Isaac Newton
+                    '-- Roger Cotes
+                        '-- Robert Smith
+                            '-- Walter Taylor
+                                '-- Stephen Whisson
+                                    '-- Thomas Postlethwaite
+                                        '-- Thomas Jones
+                                            '-- Adam Sedgewick
+                                                '-- William Hopkins
+                                                    '-- Sir Francis Galton
+                                                        '-- Karl Pearson
+                                                            '-- Philip Hall
+                                                                '-- Bernhard Hermann Neumann
+                                                                    '-- Laszlo Gyorgy Kovacs
+                                                                        '-- J. Michael Brady
+                                                                            '-- David Forsyth
+                                                                                '-- Aditya Deshpande
+
